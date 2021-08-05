@@ -1,3 +1,4 @@
+extern crate window;
 fn main() {
-    println!("Hello, world!");
+    window::CreateWindow("TESTING12")
 }
